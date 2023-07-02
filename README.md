@@ -21,17 +21,17 @@ T_homo:Table_blind_human_ST_2k.csv/Table_blind_human_Y_2k.csv
 T_mus:Table_blind_musculus_ST_2k.csv/Table_blind_musculus_Y_2k.csv  
 T_rattus:Table_blind_Rattus_ST_2k.csv/Table_blind_Rattus_Y_2k.csv
 ### Test
-Step 1: ```cd code```
+Step 1: ```cd code```  
 Step 2: ```python predic_my_model.py```
 ### Test
-Step 1: ```cd code```
+Step 1: ```cd code```  
 Step 2: ```python predic_my_model_blind_homo.py```
 ### Test
-Step 1: ```cd code```
+Step 1: ```cd code```  
 Step 2: ```python predic_my_model_blind_musculus.py```
 ### Test
-Step 1: ```cd code```
+Step 1: ```cd code```  
 Step 2: ```python predic_my_model_blind_Rattus.py```
 ### Train your own model DeepMPSF
-Step 1: ```cd code```
+Step 1: ```cd code```  
 Step 2: ```python train_my_model.py```
