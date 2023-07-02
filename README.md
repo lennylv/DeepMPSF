@@ -20,16 +20,16 @@ T_human:Table_All_test_general_ST.csv/Table_All_test_general_Y.csv
 T_homo:Table_blind_human_ST_2k.csv/Table_blind_human_Y_2k.csv
 T_mus:Table_blind_musculus_ST_2k.csv/Table_blind_musculus_Y_2k.csv  
 T_rattus:Table_blind_Rattus_ST_2k.csv/Table_blind_Rattus_Y_2k.csv
-### Test
+### Test on T_human
 Step 1: ```cd code```  
 Step 2: ```python predic_my_model.py```
-### Test
+### Test on T_homo
 Step 1: ```cd code```  
 Step 2: ```python predic_my_model_blind_homo.py```
-### Test
+### Test on T_mus
 Step 1: ```cd code```  
 Step 2: ```python predic_my_model_blind_musculus.py```
-### Test
+### Test on T_rattus
 Step 1: ```cd code```  
 Step 2: ```python predic_my_model_blind_Rattus.py```
 ### Train your own model DeepMPSF
